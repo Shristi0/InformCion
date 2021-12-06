@@ -1,0 +1,24 @@
+.banner-text-head {
+  font-size: 45px !important;
+}
+.banner-text-seperation {
+  color: #ff6600;
+}
+.title-style-choose {
+  font-weight: 600;
+}
+.why-choose-us-list li {
+  list-style: inside;
+}
+#Layer_1 {
+  width: 200px;
+}
+.service-augmentation li,
+.service-software li,
+.service-digital li {
+  list-style: inside !important;
+}
+.service-image {
+  height: 200px;
+  overflow: hidden;
+}
